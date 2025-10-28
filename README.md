@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # A Simple Blockchain-based Voting System
 
 A simple  blockchain-based voting system application built from scratch by Python. It's available for running with multipeer.
